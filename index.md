@@ -8,7 +8,7 @@ My research will focuse on devising algorithms for various problems in the areas
 
 You can find my CV here ---> [CV_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794235/CV_Shahmizad.pdf)
 
-**Email:** maralshahmizad@gmail.com
+**Email:** (maralshahmizad@gmail.com)
 
 ## Publications
 you can find my publications here [Google Scolar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
