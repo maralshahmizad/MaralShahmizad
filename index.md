@@ -6,7 +6,10 @@ My research will focuse on devising algorithms for various problems in the areas
 - Network analysis
 - Integer programming
 
-You can find my CV here ---> [Resume_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794101/Resume_Shahmizad.pdf)
+You can find my CV here ---> [CV_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794235/CV_Shahmizad.pdf)
+
+**Email:** maralshahmizad@gmail.com
+
 ## Publications
 you can find my publications here [Google Scolar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 
@@ -14,15 +17,14 @@ you can find my publications here [Google Scolar](https://scholar.google.com/cit
 - MSc in Industrial Engineering from Mazandaran University of Science and Technology (Iran)
 - BSc in Industrial Engineering from Babol Noshirvani University of Technology (Iran)
 
-### Research Interests
+## Research Interests
 - Operations research
 - Vehicle routing problem
 - Stochastic Optimization
 - Supply chain management
 
 
-## Connections
-1. [Email](maralshahmizad@gmail.com)
-2. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
-3. [Research Gate](https://www.researchgate.net/profile/Maral-Shahmizad)
-4. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
+## Social
+1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
+2. [Research Gate](https://www.researchgate.net/profile/Maral-Shahmizad)
+3. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
