@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About me
+My name is **Maral Shamizad**. Currently, I'm a Ph.D student at [Oklahoma State University](https://go.okstate.edu/). 
+My research will focuse on devising algorithms for various problems in the areas of:
+- Operations research
+- Combinatorial optimization
+- Network analysis
+- Integer programming
 
-You can use the [editor on GitHub](https://github.com/maralshahmizad/maralshahmizad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find my CV here ---> [Resume_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794101/Resume_Shahmizad.pdf)
+## Publications
+you can find my publications here [Google Scolar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- MSc in Industrial Engineering from Mazandaran University of Science and Technology (Iran)
+- BSc in Industrial Engineering from Babol Noshirvani University of Technology (Iran)
 
-### Markdown
+### Research Interests
+- Operations research
+- Vehicle routing problem
+- Stochastic Optimization
+- Supply chain management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maralshahmizad/maralshahmizad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Connections
+1. [Email](maralshahmizad@gmail.com)
+2. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
+3. [Research Gate](https://www.researchgate.net/profile/Maral-Shahmizad)
+4. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
