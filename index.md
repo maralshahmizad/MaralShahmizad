@@ -1,3 +1,6 @@
+![fgf](https://user-images.githubusercontent.com/87090038/125148387-86eaa280-e0f7-11eb-93be-22b3f5c0a18e.jpg)
+
+
 ## About me
 My name is **Maral Shamizad**. Currently, I'm a Ph.D student at [Oklahoma State University](https://go.okstate.edu/). 
 My research will focuse on devising algorithms for various problems in the areas of:
