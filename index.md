@@ -11,11 +11,11 @@ You can find my CV here: [CV_Shahmizad.pdf](https://github.com/maralshahmizad/ma
 
 
 ## Publications
-Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
+Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ).
 
 ## Education
-- MSc in Industrial Engineering from Mazandaran University of Science and Technology 2016 (Iran)
-- BSc in Industrial Engineering from Babol Noshirvani University of Technology 2013 (Iran)
+- MSc in Industrial Engineering from Mazandaran University of Science and Technology, 2016 (Iran).
+- BSc in Industrial Engineering from Babol Noshirvani University of Technology, 2013 (Iran).
 
 ## Research Interests
 - Operations research
