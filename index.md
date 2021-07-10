@@ -1,6 +1,4 @@
 
-
-
 ## About me
 My name is **Maral Shamizad**. Currently, I'm a Ph.D student at [Oklahoma State University](https://go.okstate.edu/). 
 My research will focuse on devising algorithms for various problems in the areas of:
