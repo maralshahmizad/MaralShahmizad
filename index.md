@@ -1,4 +1,4 @@
-![fgf](https://user-images.githubusercontent.com/87090038/125148387-86eaa280-e0f7-11eb-93be-22b3f5c0a18e.jpg)
+
 
 
 ## About me
