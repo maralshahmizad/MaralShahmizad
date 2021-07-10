@@ -7,7 +7,7 @@ My research will focuse on devising algorithms for various problems in the areas
 - Network analysis
 - Integer programming
 
-You can find my CV here ---> [CV_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794235/CV_Shahmizad.pdf)
+You can find my CV here: [CV_Shahmizad.pdf](https://github.com/maralshahmizad/maralshahmizad/files/6794235/CV_Shahmizad.pdf)
 
 
 ## Publications
