@@ -15,8 +15,8 @@ You can find my CV here ---> [CV_Shahmizad.pdf](https://github.com/maralshahmiza
 Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 
 ## Education
-- MSc in Industrial Engineering from Mazandaran University of Science and Technology (Iran)
-- BSc in Industrial Engineering from Babol Noshirvani University of Technology (Iran)
+- MSc in Industrial Engineering from Mazandaran University of Science and Technology 2016 (Iran)
+- BSc in Industrial Engineering from Babol Noshirvani University of Technology 2013 (Iran)
 
 ## Research Interests
 - Operations research
@@ -25,7 +25,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 - Supply chain management
 
 
-## Social
+## Find me here
 1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 2. [Researchgate](https://www.researchgate.net/profile/Maral-Shahmizad)
 3. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
