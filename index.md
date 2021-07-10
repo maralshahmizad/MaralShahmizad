@@ -11,7 +11,7 @@ You can find my CV here ---> [CV_Shahmizad.pdf](https://github.com/maralshahmiza
 **Email:** (maralshahmizad@gmail.com)
 
 ## Publications
-you can find my publications here [Google Scolar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
+ّّFind my publications here [Google Scolar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 
 ## Education
 - MSc in Industrial Engineering from Mazandaran University of Science and Technology (Iran)
