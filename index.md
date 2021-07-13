@@ -20,6 +20,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 ## Research Interests
 - Operations research
 - Vehicle routing problem
+- Network analysis
 - Stochastic Optimization
 - Supply chain management
 
