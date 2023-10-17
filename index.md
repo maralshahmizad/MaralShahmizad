@@ -16,7 +16,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 ## Educational Journey 🎓
 
-📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, diving deeper into the world of industrial optimization and innovation.
+📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, 2021-... (USA).
 
 🎓 MSc in Industrial Engineering from Mazandaran University of Science and Technology, 2016 (Iran).
 
