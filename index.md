@@ -21,12 +21,16 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 ## Research Interests 🤓
 🔍 **Operations Research**
-🌐 **Network Analysis**
-📈 **Stochastic Optimization**
-🚚 **Vehicle Routing Problem**
-🤖 **Machine Learning**
-📦 **Supply Chain Management**
 
+🌐 **Network Analysis**
+
+📈 **Stochastic Optimization**
+
+🚚 **Vehicle Routing Problem**
+
+🤖 **Machine Learning**
+
+📦 **Supply Chain Management**
 
 ## Let's Connect! 🌐
 1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
