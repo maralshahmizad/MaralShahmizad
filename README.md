@@ -8,7 +8,8 @@
 
 I'm dedicated to advancing the field through innovative algorithms and data-driven insights.
 
-You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmizad/MaralShahmizad/blob/main/CV/CV_Maral.pdf)
+You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmizad/MaralShahmizad/raw/main/CV/CV_Maral.pdf)
+
 
 
 ## Publications 📖
