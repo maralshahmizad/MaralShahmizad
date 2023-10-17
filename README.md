@@ -1,4 +1,4 @@
-## About me 👩‍🔬
+## 👩‍🔬 About me 
 👋 Hello, I'm **Maral Shamizad**, an Industrial Engineering Ph.D. student at  [Oklahoma State University](https://go.okstate.edu/), passionate about solving complex problems in the areas of:
 
 🔍 Operations Research
@@ -12,10 +12,10 @@ You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmiz
 
 
 
-## Publications 📖
+## 📖 Publications 
 Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ).
 
-## Educational Journey 🎓
+ ## 🎓 Educational Journey 
 
 📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, 2021-... (USA).
 
@@ -23,7 +23,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 🎓 BSc in Industrial Engineering from Babol Noshirvani University of Technology, 2013 (Iran).
 
-## Research Interests 🤓
+## 🤓Research Interests 
 🔍 **Operations Research**
 
 🌐 **Network Analysis**
@@ -36,7 +36,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 📦 **Supply Chain Management**
 
-## Let's Connect! 🌐
+## 🌐Let's Connect! 
 1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 2. [Researchgate](https://www.researchgate.net/profile/Maral-Shahmizad)
 3. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
