@@ -1,4 +1,3 @@
-
 ## About me 👩‍🔬
 👋 Hello, I'm **Maral Shamizad**, an Industrial Engineering Ph.D. student at  [Oklahoma State University](https://go.okstate.edu/), passionate about solving complex problems in the areas of:
 
@@ -9,25 +8,32 @@
 
 I'm dedicated to advancing the field through innovative algorithms and data-driven insights.
 
-You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmizad/CV/blob/main/CV_Maral.pdf)
+You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmizad/CV/blob/b5bcccd013f97037117f803531c8e3318cfefd24/CV_Maral.pdf)
 
 
 ## Publications 📖
 Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ).
 
 ## Educational Journey 🎓
-📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, diving deeper into the world of industrial optimization and innovation.
+
+📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, 2021-... (USA).
+
 🎓 MSc in Industrial Engineering from Mazandaran University of Science and Technology, 2016 (Iran).
+
 🎓 BSc in Industrial Engineering from Babol Noshirvani University of Technology, 2013 (Iran).
 
 ## Research Interests 🤓
 🔍 **Operations Research**
-🌐 **Network Analysis**
-📈 **Stochastic Optimization**
-🚚 **Vehicle Routing Problem**
-🤖 **Machine Learning**
-📦 **Supply Chain Management**
 
+🌐 **Network Analysis**
+
+📈 **Stochastic Optimization**
+
+🚚 **Vehicle Routing Problem**
+
+🤖 **Machine Learning**
+
+📦 **Supply Chain Management**
 
 ## Let's Connect! 🌐
 1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
