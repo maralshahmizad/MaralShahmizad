@@ -23,7 +23,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 🎓 BSc in Industrial Engineering from Babol Noshirvani University of Technology, 2013 (Iran).
 
-## 🤓Research Interests 
+## 🤓 Research Interests 
 🔍 **Operations Research**
 
 🌐 **Network Analysis**
@@ -36,7 +36,7 @@ Find my publications [here](https://scholar.google.com/citations?hl=en&user=Eety
 
 📦 **Supply Chain Management**
 
-## 🌐Let's Connect! 
+## 🌐 Let's Connect! 
 1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ)
 2. [Researchgate](https://www.researchgate.net/profile/Maral-Shahmizad)
 3. [Linkedin](https://www.linkedin.com/in/maral-shahmizad-8b9a9b19b/)
