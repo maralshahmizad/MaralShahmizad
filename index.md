@@ -15,8 +15,11 @@ You can find my CV here: [CV_MaralShahmizad.pdf](https://github.com/maralshahmiz
 Find my publications [here](https://scholar.google.com/citations?hl=en&user=EetymRMAAAAJ).
 
 ## Educational Journey 🎓
+
 📚 Currently pursuing a Ph.D. in Industrial Engineering at Oklahoma State University, diving deeper into the world of industrial optimization and innovation.
+
 🎓 MSc in Industrial Engineering from Mazandaran University of Science and Technology, 2016 (Iran).
+
 🎓 BSc in Industrial Engineering from Babol Noshirvani University of Technology, 2013 (Iran).
 
 ## Research Interests 🤓
